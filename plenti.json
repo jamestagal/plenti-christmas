@@ -1,0 +1,10 @@
+{
+	"build": "public",
+	"routes": {
+		"pages": ":filename"
+	},
+	"entrypoint_js": ":fingerprint",
+	"local": {
+		"port": 3000
+	}
+}

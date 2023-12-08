@@ -1,0 +1,15 @@
+{
+	"components": [
+		{
+			"name": "hero"
+		},
+		{
+			"name": "advent"
+		}
+	],
+	"meta": {
+		"title": "Plenti Christmas",
+		"desc": "A template for the Build-Time Render Engine Plenti",
+		"keywords": "Plenti, Svelte, Go, SSG, JAMstack, Themes"
+	}
+}
