@@ -8,10 +8,10 @@
 </script>
 
 <html lang="en">
-  <Snow />
   <Head title={content.filename} {env} />
   <body>
     <main class="main">
+      <Snow />
       <Header />
       <svelte:component
         this={layout}
