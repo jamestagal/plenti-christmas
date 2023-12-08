@@ -17,7 +17,7 @@
   />
 
   <!--=============== CSS ===============-->
-  <link rel="stylesheet" href="/global.css" />
+  <link rel="stylesheet" href="global.css" />
 
   <title>Responsive christmas website | H5P Advent Calendar</title>
 
