@@ -18,7 +18,7 @@
 
   <!--=============== CSS ===============-->
   <link rel="stylesheet" href="global.css" />
-
+  <link rel="stylesheet" href="footer.css" />
   <title>Responsive christmas website | H5P Advent Calendar</title>
 
   <script type="module" src={`/${env.entrypointJS}/core/main.js`}></script>
