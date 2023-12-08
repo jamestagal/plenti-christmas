@@ -1,0 +1,1 @@
+let allMedia=["media/img/bell.png","media/img/favicon.png","media/img/plenti.png","media/img/santa.png","media/img/star.png","media/logo.svg"];export default allMedia

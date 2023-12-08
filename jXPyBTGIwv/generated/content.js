@@ -1,0 +1,1 @@
+const allContent=[{pager:null,type:"pages",path:"/",filepath:"content/pages/_index.json",filename:"_index.json",fields:{components:[{name:"hero"},{name:"advent"}],meta:{title:"Plenti Christmas",desc:"A template for the Build-Time Render Engine Plenti",keywords:"Plenti, Svelte, Go, SSG, JAMstack, Themes"}}}];export default allContent
