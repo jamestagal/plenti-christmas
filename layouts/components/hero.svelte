@@ -30,7 +30,7 @@
         Rowena
       </p>
       <p>
-        Click here to find out more about this H5P content type.'<br /><br />
+        Click here to find out more about this H5P content type.<br /><br />
       </p>
       <a
         href="https://h5p.org/content-types/advent-calendar"
