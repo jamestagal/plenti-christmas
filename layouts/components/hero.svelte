@@ -1,4 +1,3 @@
-
 <section class="home">
   <div class="home__container container">
     <img src="media/img/santa.png" alt="sanata" class="home__img" />
@@ -13,7 +12,8 @@
 
         <h1 class="home__title" id="msg-christmas"></h1>
       </div>
-      <h2><i>Silly Season H5P Advent Calendar</i></h2><br />
+      <h2><i>Silly Season H5P Advent Calendar</i></h2>
+      <br />
       <p class="home__description">
         Dear All, <br /><br />
 
@@ -21,12 +21,17 @@
         virtual <span>H5P Advent Calendar</span> with festive fun, silly, sweet
         and interesting video clips and songs. I’ve set it so you can open them
         all in one sitting or come back each day (or so) to open the next one/s
-        as per tradition :).<br /><br />
+        as per tradition :).<br
+        /><br />
+        P.S. I've put together an advent calendar below. Scoll down to see it!
+        <br /><br />
         Merry wishes!<br /><br />
 
         Rowena
       </p>
-
+      <p>
+        Click here to find out more about this H5P content type.'<br /><br />
+      </p>
       <a
         href="https://h5p.org/content-types/advent-calendar"
         target="_blank"
